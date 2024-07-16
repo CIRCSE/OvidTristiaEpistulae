@@ -39,4 +39,12 @@ The following lines, which were omitted by mistake in the original source, were 
 
 The standardization of capitalization usage and the adoption of the "u" character even for the voiced labiodental fricative [v] were applied to both texts, following the convention adopted in the LiLa Lemma Bank.
 
+## Credits
+
+- **Contributors**: Aurora Alagni, Francesco Mambrini, Giovanni Moretti, Marco Passarotti 
+
+The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
+
+## Copyright
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />These resources are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
